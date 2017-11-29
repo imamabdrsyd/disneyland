@@ -1,5 +1,5 @@
 public class Address {
 
-  private Address;
+  private Address address;
 
 }
